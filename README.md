@@ -4,7 +4,7 @@ In this repository I have put together some projects that I studied to improve m
 
 I have separated this repository in the following order:
 
-1. `Project 1`: Add Description
+1. `Project 1`: Text Search and Replace
 2. `Project 2`: Add Description
 
 Obs... Repository In Construction...
