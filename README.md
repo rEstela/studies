@@ -11,7 +11,7 @@ I have separated this repository in the following order:
 5. `Project 5`: Spectral Analysis
 6. `Project 6`: Denoising Noisy Signal (fake and ECG signal)
 7. `Project 7`: Time Series Filtering
-8. `Project 8`: TF-IDT e T-SNE no texto utilizado no Project 2
+8. `Project 8`: NLP (conjunto de codigos e estudos sobre o assunto)
 9. `Project 9`: .
 
 Obs... Repository In Construction...
